@@ -1,6 +1,8 @@
 # GithubOptions
 
-## Emojis :smiley:
+## Recursos
+
+### Emojis :smiley:
 
 ```
 https://github.com/ikatyang/emoji-cheat-sheet
