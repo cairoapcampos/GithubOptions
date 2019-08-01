@@ -14,3 +14,7 @@
 * [Lista 2](https://gist.github.com/rxaviers/7360908)
 * [Lista 3](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
+### Shields
+
+* [Lista 1](https://img.shields.io/badge/projects-microcontroller-blue)
+
